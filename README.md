@@ -1,12 +1,12 @@
 # GraphRAG
 What is Microsoft GraphRAG ?
 
-Understanding Microsoft GraphRAG: A Comprehensive Overview
+**Understanding Microsoft GraphRAG: A Comprehensive Overview
 GraphRAG (Graph-based Retrieval-Augmented Generation) is an advanced AI architecture that combines graph databases with retrieval-augmented generation (RAG) to create a more structured and context-aware approach to information retrieval and generation. Pioneered by Microsoft and other leading tech organizations, GraphRAG builds upon RAG frameworks by introducing graph structures to represent and query relationships between data points.
 
 This model shines in scenarios where relational data—such as entities, their attributes, and the connections between them—is critical. By enabling AI to traverse and understand these relationships, GraphRAG enhances decision-making, content generation, and conversational AI with richer, more relevant insights.
 
-Why GraphRAG?
+**Why GraphRAG?
 Traditional RAG architectures rely on a flat retrieval mechanism where a model queries a document index or database to retrieve the most relevant passages. However, this flat structure has limitations:
 
 Lack of Relationships: Context between entities or documents is often lost.
